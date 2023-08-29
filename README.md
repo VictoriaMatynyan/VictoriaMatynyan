@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictoriaMatynyan!
 
-- 👀 I’m interested in playing the guitar (also play Rocksmith 2014), dream of travelling around the world and 
+- 👀 I’m interested in front-end web development, playing the guitar (also play Rocksmith 2014), dream of travelling around the world and 
 getting to know world's people and cultures🗺️👯‍♀️
 
 - 📜 Before getting into web-development, I studied Linguistics (English and German languages), worked as a kitchen and 
