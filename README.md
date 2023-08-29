@@ -8,8 +8,7 @@ furniture Custom Manager and as a commodity Lead Buyer in an automotive business
 
 - 🌱 I’m currently learning web development (mainly front end) at [Yandex.Praktikum](https://practicum.yandex.ru/).
 
-- 💞️ I’m looking to collaborate on... Actually, I'll be happy to get any offers to collaborate on to improve my web development skills and 
-be involved in an amazing IT-society :)
+- 💞️ I’m looking to collaborate on... Actually, I'll be happy to get any offers to collaborate on to be involved in creating something amazing :)
 
 - 📫 How to reach me: victoria.matynyan@gmail.com🤗
 
