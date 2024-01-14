@@ -43,9 +43,6 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="animated globe emoji" width="32" height="32"> I'm learning to play the guitar and to sew, and my biggest dream is to travel around the world and to get to know as many world's people and cultures as possible.🗺️👯‍♀️<br/><br/>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32"> Happy to collaborate: <strong> victoria.matynyan@gmail.com </strong> <br/><br/>
 </p>
-<br/>
-<br/>
-<br/>
 
 ## 🪄Tech stack
 
